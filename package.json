@@ -13,8 +13,8 @@
   "dependencies": {
     "@tanstack/react-query": "^4.32.6",
     "ariakit": "^2.0.0-next.42",
-    "axios": "^1.4.0",
-    "ethers": "^5.7.2",
+    "axios": "^1.2.1",
+    "ethers": "^6.7.0",
     "fathom-client": "^3.5.0",
     "next": "^13.0.6",
     "next-intl": "^2.19.1",
