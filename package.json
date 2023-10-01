@@ -11,7 +11,7 @@
     "serve": "serve out"
   },
   "dependencies": {
-    "@tanstack/react-query": "^4.32.6",
+    "@tanstack/react-query": "^4.35.0",
     "ariakit": "^2.0.0-next.42",
     "axios": "^1.2.1",
     "ethers": "^6.7.0",
